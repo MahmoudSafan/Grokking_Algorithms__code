@@ -1,2 +1,2 @@
-# Grokking_Algorithms__code
+# Grokking_Algorithms_code
 Grokking Algorithms Implementation
