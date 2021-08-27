@@ -18,4 +18,4 @@ arr = [1000,2000,-20,100,50,60,99]
 
 print(selection_sort(arr))
 
-
+## Big (O) of selection sort == O(n*.5*n) but we'll ignore constant so time complexity == n power 2
